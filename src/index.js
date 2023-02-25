@@ -1,8 +1,12 @@
-import Dashboard from './Dashboard';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-
-const myFirstElement = <h1>Hello React!</h1>
+import './index.css';
+import App from './App';
+import Dashboard from './Dashboard';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(Dashboard);
+root.render(
+  <React.StrictMode>
+    <Dashboard />
+  </React.StrictMode>
+);
