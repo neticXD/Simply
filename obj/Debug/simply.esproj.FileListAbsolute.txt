@@ -1,0 +1,2 @@
+C:\Users\netic\source\Repos\Simply\Simply\obj\Debug\simply.esproj.SuggestedBindingRedirects.cache
+C:\Users\netic\source\Repos\Simply\Simply\obj\Debug\simply.esproj.CoreCompileInputs.cache
